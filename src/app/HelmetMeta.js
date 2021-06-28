@@ -2,7 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import Resume from "../settings/resume.json";
 import Settings from "../settings/settings.json";
-import previewImage from "../assests/images/social_image.png"
+import previewImage from "../assets/images/social_image.png"
 
 
 export const HelmetMeta = () => {

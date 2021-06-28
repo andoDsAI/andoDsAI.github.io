@@ -4,7 +4,7 @@
         "label": "Computer Science student",
         "email": "andoDsAI@gmail.com",
         "phone": "(XXX) XXX-XXXX",
-        "picture": "../assests/images/social-image.png",
+        "picture": "../assets/images/social-image.png",
         "x_title": "Hey, I'm",
         "job": "Computer Science student",
         "description": "Hey, I'm An Do, a Computer Science student based in Ha Noi, Viet Nam. I love all things technical. Talk soon!",
@@ -52,8 +52,8 @@
             },
             {
                 "network": "Twitter",
-                "username": "_sweett_25",
-                "url": "https://twitter.com/_sweett_25",
+                "username": "_sweetttt_",
+                "url": "https://twitter.com/_sweetttt_",
                 "x_icon": "fab fa-twitter"
             },
             {
