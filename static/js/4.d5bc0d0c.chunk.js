@@ -1,2 +1,0 @@
-(this["webpackJsonpandoDsAI.com"]=this["webpackJsonpandoDsAI.com"]||[]).push([[4],{145:function(n,e,s){"use strict";s.r(e),s.d(e,"Resume",(function(){return c}));var t=s(0),u=s.n(t),c=function(){return u.a.createElement("div",null,"Resume...")}}}]);
-//# sourceMappingURL=4.d5bc0d0c.chunk.js.map
