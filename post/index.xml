@@ -6,25 +6,16 @@
     <description>Recent content in Posts on An Do</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2023 14:50:51 +0700</lastBuildDate><atom:link href="https://andoDsAI.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Apr 2023 14:50:51 +0700</lastBuildDate><atom:link href="https://andoDsAI.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChatGPT Prompts</title>
       <link>https://andoDsAI.github.io/p/chatgpt-prompts/</link>
-      <pubDate>Sat, 22 Apr 2023 14:50:51 +0700</pubDate>
+      <pubDate>Thu, 20 Apr 2023 14:50:51 +0700</pubDate>
       
       <guid>https://andoDsAI.github.io/p/chatgpt-prompts/</guid>
-      <description>Introduction Welcome to the &amp;ldquo;ChatGPT Prompts&amp;rdquo; repository! This is a collection of prompt examples to be used with the ChatGPT model.
+      <description>Introduction Welcome to the &amp;ldquo;ChatGPT Prompts&amp;rdquo;! This is a collection of prompt examples to be used with the ChatGPT model.
 The ChatGPT model is a large language model trained by OpenAI that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 What is the prompt in ChatGPT? ChatGPT Prompts The &amp;ldquo;prompt&amp;rdquo; in ChatGPT refers to a sentence or a passage of text provided by the user to initiate a conversation with the system.</description>
-    </item>
-    
-    <item>
-      <title>Getting Used to GitHub, Eps. 3</title>
-      <link>https://andoDsAI.github.io/p/getting-used-to-github-eps-3/</link>
-      <pubDate>Wed, 04 May 2022 21:55:37 +0700</pubDate>
-      
-      <guid>https://andoDsAI.github.io/p/getting-used-to-github-eps-3/</guid>
-      <description>First words In many cases, you (and your collaborators) create multiple branches for different purpose: creating features, bug fixing, code versioning,&amp;hellip; Most of the issues happen when you try to combine the code between those branches: you may realize that you still commit to the main branch while fixing bugs/adding features, another developer may add a little documentation on your code (which is great), or your evil coworker might mess up with your code and make it full of bugs.</description>
     </item>
     
     <item>
@@ -50,7 +41,7 @@ Initial setup Create repositories First, let take a look at what a Github Page i
     <item>
       <title>What this blog is all about?</title>
       <link>https://andoDsAI.github.io/p/what-this-blog-is-all-about/</link>
-      <pubDate>Fri, 10 Sep 2021 14:50:51 +0700</pubDate>
+      <pubDate>Mon, 28 Jun 2021 14:50:51 +0700</pubDate>
       
       <guid>https://andoDsAI.github.io/p/what-this-blog-is-all-about/</guid>
       <description>Some first words Sweet, my blog, is a storybook of mine that is about all aspects of my life, and knowledge I learned in a life of living (I’m not sure about that, my life is quite boring). I am a data scientist. I am excited to share my experiences and insights with you about data science, artificial intelligence, and other topics that interest me.

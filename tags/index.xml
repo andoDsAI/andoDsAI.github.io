@@ -6,11 +6,11 @@
     <description>Recent content in Tags on An Do</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2023 14:50:51 +0700</lastBuildDate><atom:link href="https://andoDsAI.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Apr 2023 14:50:51 +0700</lastBuildDate><atom:link href="https://andoDsAI.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>chat-gpt</title>
       <link>https://andoDsAI.github.io/tags/chat-gpt/</link>
-      <pubDate>Sat, 22 Apr 2023 14:50:51 +0700</pubDate>
+      <pubDate>Thu, 20 Apr 2023 14:50:51 +0700</pubDate>
       
       <guid>https://andoDsAI.github.io/tags/chat-gpt/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>chatbot</title>
       <link>https://andoDsAI.github.io/tags/chatbot/</link>
-      <pubDate>Sat, 22 Apr 2023 14:50:51 +0700</pubDate>
+      <pubDate>Thu, 20 Apr 2023 14:50:51 +0700</pubDate>
       
       <guid>https://andoDsAI.github.io/tags/chatbot/</guid>
       <description></description>
@@ -28,7 +28,7 @@
     <item>
       <title>nlp</title>
       <link>https://andoDsAI.github.io/tags/nlp/</link>
-      <pubDate>Sat, 22 Apr 2023 14:50:51 +0700</pubDate>
+      <pubDate>Thu, 20 Apr 2023 14:50:51 +0700</pubDate>
       
       <guid>https://andoDsAI.github.io/tags/nlp/</guid>
       <description></description>
@@ -37,36 +37,9 @@
     <item>
       <title>productivity</title>
       <link>https://andoDsAI.github.io/tags/productivity/</link>
-      <pubDate>Sat, 22 Apr 2023 14:50:51 +0700</pubDate>
+      <pubDate>Thu, 20 Apr 2023 14:50:51 +0700</pubDate>
       
       <guid>https://andoDsAI.github.io/tags/productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>https://andoDsAI.github.io/tags/git/</link>
-      <pubDate>Wed, 04 May 2022 21:55:37 +0700</pubDate>
-      
-      <guid>https://andoDsAI.github.io/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>github</title>
-      <link>https://andoDsAI.github.io/tags/github/</link>
-      <pubDate>Wed, 04 May 2022 21:55:37 +0700</pubDate>
-      
-      <guid>https://andoDsAI.github.io/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>merge</title>
-      <link>https://andoDsAI.github.io/tags/merge/</link>
-      <pubDate>Wed, 04 May 2022 21:55:37 +0700</pubDate>
-      
-      <guid>https://andoDsAI.github.io/tags/merge/</guid>
       <description></description>
     </item>
     
@@ -94,6 +67,15 @@
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://andoDsAI.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://andoDsAI.github.io/tags/github/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andoDsAI.github.io/tags/github/</guid>
       <description></description>
     </item>
     

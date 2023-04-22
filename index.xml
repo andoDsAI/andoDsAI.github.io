@@ -6,26 +6,31 @@
         <description>Recent content on An Do</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 22 Apr 2023 14:50:51 +0700</lastBuildDate><atom:link href="https://andoDsAI.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 20 Apr 2023 14:50:51 +0700</lastBuildDate><atom:link href="https://andoDsAI.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>ChatGPT Prompts</title>
         <link>https://andoDsAI.github.io/p/chatgpt-prompts/</link>
-        <pubDate>Sat, 22 Apr 2023 14:50:51 +0700</pubDate>
+        <pubDate>Thu, 20 Apr 2023 14:50:51 +0700</pubDate>
         
         <guid>https://andoDsAI.github.io/p/chatgpt-prompts/</guid>
         <description>&lt;img src="https://andoDsAI.github.io/p/chatgpt-prompts/cover.jpeg" alt="Featured image of post ChatGPT Prompts" /&gt;&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;Welcome to the &amp;ldquo;ChatGPT Prompts&amp;rdquo; repository! This is a collection of prompt examples to be used with the ChatGPT model.&lt;/p&gt;
+&lt;p&gt;Welcome to the &amp;ldquo;ChatGPT Prompts&amp;rdquo;! This is a collection of prompt examples to be used with the ChatGPT model.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://chat.openai.com/chat&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;ChatGPT&lt;/a&gt; model is a large language model trained by &lt;a class=&#34;link&#34; href=&#34;https://openai.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;OpenAI&lt;/a&gt; that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-the-prompt-in-chatgpt&#34;&gt;What is the prompt in ChatGPT?&lt;/h2&gt;
 &lt;!-- add image --&gt;
 &lt;p&gt;&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 178; 
+			flex-basis: 429px&#34;
 	&gt;
-	&lt;a href=&#34;https://andoDsAI.github.io/prompts.png&#34; &gt;
-		&lt;img src=&#34;https://andoDsAI.github.io/prompts.png&#34;
-			
-			
-			
+	&lt;a href=&#34;https://andoDsAI.github.io/p/chatgpt-prompts/prompts.png&#34; data-size=&#34;4000x2236&#34;&gt;
+		&lt;img src=&#34;https://andoDsAI.github.io/p/chatgpt-prompts/prompts.png&#34;
+			width=&#34;4000&#34;
+			height=&#34;2236&#34;
+			srcset=&#34;https://andoDsAI.github.io/p/chatgpt-prompts/prompts_hu07b0709438dcfeeca6029326a0df6f8d_123881_480x0_resize_box_3.png 480w, https://andoDsAI.github.io/p/chatgpt-prompts/prompts_hu07b0709438dcfeeca6029326a0df6f8d_123881_1024x0_resize_box_3.png 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;ChatGPT Prompts&#34;&gt;
 	&lt;/a&gt;
@@ -43,30 +48,19 @@
 &lt;p&gt;&lt;strong&gt;DeveloperGPT:&lt;/strong&gt; Yes An, I am ready. Let&amp;rsquo;s coding!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;chatgpt-prompts&#34;&gt;ChatGPT Prompts&lt;/h2&gt;
-&lt;p&gt;In this repository, you will find a variety of prompts that can be used with ChatGPT. I encourage you to &lt;a class=&#34;link&#34; href=&#34;https://github.com/andoDsAI/chatGPT-prompts/edit/main/README.md&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;add your own prompts&lt;/a&gt; to the list, and to use ChatGPT to generate new prompts as well.&lt;/p&gt;
-&lt;p&gt;To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.&lt;/p&gt;
-&lt;p&gt;We hope you find these prompts useful and have fun using ChatGPT!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/andoDsAI/chatGPT-prompts&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;View on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;View on Hugging Face&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this post, you will find a variety of prompts that can be used with ChatGPT.&lt;/p&gt;
+&lt;p&gt;I hope you find these prompts useful and have fun using ChatGPT!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Download ChatGPT Desktop App&lt;/strong&gt;: &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;macOS&lt;/a&gt;&lt;/strong&gt; / &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Windows&lt;/a&gt;&lt;/strong&gt; / &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Linux&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;ℹ️ &lt;strong&gt;NOTE:&lt;/strong&gt; Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;h2 id=&#34;want-to-write-effective-prompts&#34;&gt;Want to Write Effective Prompts?&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;ve authored a free e-book called &lt;strong&gt;&amp;ldquo;The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;📖 &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://fka.gumroad.com/l/art-of-chatgpt-prompting&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Read the free e-book&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;👷‍♂️ &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.steamship.com/build?utm_source=github&amp;amp;utm_medium=explainer&amp;amp;utm_campaign=awesome_gpt_prompts&amp;amp;utm_id=awesome_gpt_prompts&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Build your own GPT Prompt App&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;using-chatgpt-prompts&#34;&gt;Using ChatGPT prompts&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;This prompts&lt;/strong&gt; is designed to provide an enhanced UX when working with prompts. With just a few clicks, you can easily edit and copy the prompts on the site to fit your specific needs and preferences. The copy button will copy the prompt exactly as you have edited it.&lt;/p&gt;
-&lt;p style=&#34;text-align: center&#34;&gt;&lt;video width=&#34;80%&#34; autoplay loop muted playsinline src=&#34;https://user-images.githubusercontent.com/196477/207992596-6846398c-9ee7-4d7b-8fbe-b7c9e6daad23.mov&#34; /&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center&#34;&gt;&lt;video width=&#34;80%&#34; autoplay loop muted playsinline src=&#34;use-prompts.mov&#34; /&gt;&lt;/p&gt;
 &lt;h1 id=&#34;prompts&#34;&gt;Prompts&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ℹ️ &lt;strong&gt;NOTE:&lt;/strong&gt; if ChatGPT makes an invalid move, try &lt;code&gt;Regenerate response&lt;/code&gt;.&lt;/p&gt;
@@ -733,218 +727,6 @@
 </description>
         </item>
         <item>
-        <title>Getting Used to GitHub, Eps. 3</title>
-        <link>https://andoDsAI.github.io/p/getting-used-to-github-eps-3/</link>
-        <pubDate>Wed, 04 May 2022 21:55:37 +0700</pubDate>
-        
-        <guid>https://andoDsAI.github.io/p/getting-used-to-github-eps-3/</guid>
-        <description>&lt;img src="https://andoDsAI.github.io/p/getting-used-to-github-eps-3/merge.gif" alt="Featured image of post Getting Used to GitHub, Eps. 3" /&gt;&lt;h1 id=&#34;first-words&#34;&gt;First words&lt;/h1&gt;
-&lt;p&gt;In many cases, you (and your collaborators) create multiple branches for different purpose: creating features, bug fixing, code versioning,&amp;hellip; Most of the issues happen when you try to combine the code between those branches: you may realize that you still commit to the main branch while fixing bugs/adding features, another developer may add a little documentation on your code (which is great), or your evil coworker might mess up with your code and make it full of bugs. In short, there may be some modification on the branch you are trying to merge into, that you need to resolve to (happily) combine the two different commits.&lt;/p&gt;
-&lt;p&gt;I will create (with additional references from other sources) some different scenarios here that represent the problem you might face when working on different branches, and make it easy to introduce some new definition, as well as some good practices when working with Git and Github&lt;/p&gt;
-&lt;h1 id=&#34;scenario-1-working-on-new-feature-no-file-conflict-yet&#34;&gt;Scenario #1: Working on new feature (no file conflict yet)&lt;/h1&gt;
-&lt;p&gt;Suppose that you are working on a project about real estate recommendation system, and you want to try using &lt;strong&gt;location&lt;/strong&gt; information for your system. In the middle of your work, your boss want you to focus 100% of your time on improving system based on &lt;strong&gt;demographic&lt;/strong&gt; information.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Step 1: assume that you are on the &lt;code&gt;develop&lt;/code&gt; branch. You should create a new branch &lt;code&gt;location&lt;/code&gt; for developing the new feature:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Create and switch to new branch&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout -b location
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Commit as you go &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;add recommendation based on city&amp;#39;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Step 2: however, you boss want you to focus on &lt;code&gt;demographic&lt;/code&gt; features. You have not completed the &lt;code&gt;location&lt;/code&gt; feature yet&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Switch back to the develop branch&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout develop
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Create and switch to `demographic` branch&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout -b demographic
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Working on that branch and commit changes&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;finalized demographic-based recommendation&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Step 3: after you finish your work on &lt;code&gt;demographic&lt;/code&gt; feature, you can merge it to the &lt;code&gt;develop&lt;/code&gt; branch and push this to the remote &lt;code&gt;origin/develop&lt;/code&gt; branch (assuming that both &lt;code&gt;develop&lt;/code&gt; and &lt;code&gt;origin/develop&lt;/code&gt; have no additional commit in the mean time)&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Switch back to the develop branch&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout develop
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Merge the `demographic` branch into the `develop` branch&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git merge --no-ff demographic
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Push to the remote repository&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin develop
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;quick-note-on-merge-fast-forward-vs-no-fast-forward&#34;&gt;Quick note on &lt;code&gt;merge&lt;/code&gt;: fast-forward vs. no fast-forward&lt;/h2&gt;
-&lt;p&gt;You might see the &lt;code&gt;--no-ff&lt;/code&gt; (no fast-forward) in the step 3 above. The new demographic code seems to only add new code, without any modification.&lt;/p&gt;
-&lt;p&gt;A picture is worth a thousand words:&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 111; 
-			flex-basis: 268px&#34;
-	&gt;
-	&lt;a href=&#34;https://andoDsAI.github.io/p/getting-used-to-github-eps-3/fast-forward.png&#34; data-size=&#34;463x414&#34;&gt;
-		&lt;img src=&#34;https://andoDsAI.github.io/p/getting-used-to-github-eps-3/fast-forward.png&#34;
-			width=&#34;463&#34;
-			height=&#34;414&#34;
-			srcset=&#34;https://andoDsAI.github.io/p/getting-used-to-github-eps-3/fast-forward_hu827ec79cdf04ac9ff920a800e8bee8db_40553_480x0_resize_box_3.png 480w, https://andoDsAI.github.io/p/getting-used-to-github-eps-3/fast-forward_hu827ec79cdf04ac9ff920a800e8bee8db_40553_1024x0_resize_box_3.png 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Fast forward&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Fast forward&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;--no-ff&lt;/code&gt; will create a new commit (with new id, but the file content is the same), while by default, &lt;code&gt;git merge&lt;/code&gt; will fast-forward - moving your branch pointer (in this case, at &lt;code&gt;develop&lt;/code&gt;) to point at the incoming commit (from &lt;code&gt;demographic&lt;/code&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; when you merge with &lt;code&gt;--no-ff&lt;/code&gt;, as a new commit is created, you might be asked to create message for that commit.&lt;/p&gt;
-&lt;p&gt;In many cases, you want to prevent fast-forward from happening, because you want to maintain a specific branch &amp;ldquo;shape&amp;rdquo;, and someone (your manager) can read the history of changes that you made from creating the &lt;code&gt;demographic&lt;/code&gt; branch (instead of losing information when fast-forward)&lt;/p&gt;
-&lt;p&gt;You can change you command or do some setups to merge with or without feed-forward:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Execute for once: add the `--ff-only`, or `--no-ff` flag&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Apply for both pull and merge (pull = fetch + merge)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull --ff-only
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull --no-ff
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Using git config to do it by default &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# (git pull or git merge won&amp;#39;t need specific flag)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git config --add merge.ff &lt;span class=&#34;nb&#34;&gt;false&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git config --add merge.ff only
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;scenario-2-same-file-names-different-file-contents-on-different-branches-conflict&#34;&gt;Scenario #2: Same file names, different file contents on different branches (conflict)&lt;/h1&gt;
-&lt;p&gt;You might wonder what&amp;rsquo;s the purpose of the &lt;code&gt;location&lt;/code&gt; branch created above. Now I will use it to demonstrate merge conflict.&lt;/p&gt;
-&lt;p&gt;In a bad mood, you forgot that you create that &lt;code&gt;location&lt;/code&gt; branch for experimenting with location data, and you do some commit directly on the &lt;code&gt;develop&lt;/code&gt; branch to work with that data. Let review some of the recent commits you made (notice the &lt;code&gt;HEAD-&amp;gt;location&lt;/code&gt; (current branch) at commit f3b1b57 and the &lt;code&gt;develop&lt;/code&gt; branch at commit 9a5187c)&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git log --graph --decorate --oneline --all
-
-* 9a5187c (develop) add recommendation based on city in develop
-*   1fe34c7 Merge branch &amp;#39;demographic&amp;#39; into develop
-|\  
-| * 0883fd7 (demographic) finalized demographic-based recommendation
-|/  
-| * f3b1b57 (HEAD -&amp;gt; location) add recommendation based on city
-|/  
-* b3a463a (origin/develop) Create develop branch
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;For simple demonstration purpose, here are the 2 versions of &lt;code&gt;location.txt&lt;/code&gt; on that 2 branches:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# On `develop` branch
-location file in develop
-
-# On `location` branch
-location file
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;some-ways-you-might-consider-to-resolve-the-conflict&#34;&gt;Some ways you might consider to resolve the conflict&lt;/h2&gt;
-&lt;p&gt;When you realize the mistake, there are some cases here:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Case 1: You recognize that there are part of the features you develop from both branches would be useful, and you want to combine them together.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Run the command &lt;code&gt;git merge develop&lt;/code&gt; will create the following message:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Auto-merging location.txt
-CONFLICT (add/add): Merge conflict in location.txt
-Automatic merge failed; fix conflicts and then commit the result.
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This is inevitable, since the 2 files have different contents inside. Inside the &lt;code&gt;location.txt&lt;/code&gt; file, you can see that the content has been modified. The upper part is the line of the current commit pointed by &lt;code&gt;HEAD&lt;/code&gt; and the lower part is the&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
-location file
-=======
-location file in develop
-&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; develop
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Check &lt;code&gt;git status&lt;/code&gt; for additional understanding:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;On branch location
-You have unmerged paths.
-...
-Unmerged paths:
-  (use &amp;#34;git add &amp;lt;file&amp;gt;...&amp;#34; to mark resolution)
-        both added:      location.txt
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;To resolve the problem, simply modify the &lt;code&gt;location.txt&lt;/code&gt; file as you wish (obviously, you don&amp;rsquo;t want those &amp;ldquo;&amp;laquo;&amp;lt;&amp;rdquo; or &amp;ldquo;===&amp;rdquo; characters anyway) and add it to the staging area, then create a new commit. Here I will modify the text into &lt;strong&gt;&amp;ldquo;location file after resolve conflict&amp;rdquo;&lt;/strong&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add location.txt
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git status
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# On branch location&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# All conflicts fixed but you are still merging.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# ...&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;resolve conflict in location feature&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git log --graph --decorate --oneline --all
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Now we see that the `location` branch has new commit&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;*   1f79c56 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;location&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; resolve conflict in location feature
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;se&#34;&gt;\ &lt;/span&gt; 
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; * 9a5187c &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;HEAD -&amp;gt; develop&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; add recommendation based on city in develop
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; *   1fe34c7 Merge branch &lt;span class=&#34;s1&#34;&gt;&amp;#39;demographic&amp;#39;&lt;/span&gt; into develop
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Case 2: You have done a far better work in the &lt;code&gt;develop&lt;/code&gt; branch, and you don&amp;rsquo;t need the same code on &lt;code&gt;location&lt;/code&gt; branch anymore. Or the other way around, you soon realize the mistake, and the &lt;code&gt;location&lt;/code&gt; branch has more valuable code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The obvious solution is to use the code in &lt;code&gt;develop&lt;/code&gt; instead of that code on &lt;code&gt;location&lt;/code&gt;, or the other way around. You can use the approach in Case 1, observing that in some IDE, they support you with choosing the respective version you want. An example in VSCode (you can accept either change or both changes):&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 416; 
-			flex-basis: 998px&#34;
-	&gt;
-	&lt;a href=&#34;https://andoDsAI.github.io/p/getting-used-to-github-eps-3/conflict_vscode.png&#34; data-size=&#34;1040x250&#34;&gt;
-		&lt;img src=&#34;https://andoDsAI.github.io/p/getting-used-to-github-eps-3/conflict_vscode.png&#34;
-			width=&#34;1040&#34;
-			height=&#34;250&#34;
-			srcset=&#34;https://andoDsAI.github.io/p/getting-used-to-github-eps-3/conflict_vscode_hu25a6cb6d96d9a698a29d308a4461dbd3_47410_480x0_resize_box_3.png 480w, https://andoDsAI.github.io/p/getting-used-to-github-eps-3/conflict_vscode_hu25a6cb6d96d9a698a29d308a4461dbd3_47410_1024x0_resize_box_3.png 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Conflict VSCode&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Conflict VSCode&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;A quicker way is to use additional flags, in favor of one of the branch (&lt;code&gt;ours&lt;/code&gt; strategy refer to preference of the current branch, and &lt;code&gt;theirs&lt;/code&gt; is the preference of the incoming branch):&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git merge --strategy&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;ours develop
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git merge -X theirs develop
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; &lt;code&gt;-s&lt;/code&gt; or &lt;code&gt;--strategy&lt;/code&gt; completely ignore the other side, while &lt;code&gt;-X&lt;/code&gt; or &lt;code&gt;--strategy-option&lt;/code&gt; resolve any conflicts using the chosen side.&lt;/p&gt;
-&lt;h2 id=&#34;additional-note-merge-vs-rebase-and-options-for-git-pull&#34;&gt;Additional note: &lt;code&gt;merge&lt;/code&gt; vs &lt;code&gt;rebase&lt;/code&gt;, and options for &lt;code&gt;git pull&lt;/code&gt;&lt;/h2&gt;
-&lt;p&gt;Perhaps some animation is great here (acknowledgement to &lt;a class=&#34;link&#34; href=&#34;https://blog.developer.atlassian.com/pull-request-merge-strategies-the-great-debate/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Nicola Paolucci&amp;rsquo;s post&lt;/a&gt;  with the animations). Click on animated images to see how it works:
-&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 183; 
-			flex-basis: 440px&#34;
-	&gt;
-	&lt;a href=&#34;https://andoDsAI.github.io/p/getting-used-to-github-eps-3/merge.gif&#34; data-size=&#34;883x481&#34;&gt;
-		&lt;img src=&#34;https://andoDsAI.github.io/p/getting-used-to-github-eps-3/merge.gif&#34;
-			width=&#34;883&#34;
-			height=&#34;481&#34;
-			srcset=&#34;https://andoDsAI.github.io/p/getting-used-to-github-eps-3/merge_hu6ae8c8c5fad9c14566ba268e2c0186cc_78697_480x0_resize_box_1.gif 480w, https://andoDsAI.github.io/p/getting-used-to-github-eps-3/merge_hu6ae8c8c5fad9c14566ba268e2c0186cc_78697_1024x0_resize_box_1.gif 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Merge&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Merge&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 183; 
-			flex-basis: 440px&#34;
-	&gt;
-	&lt;a href=&#34;https://andoDsAI.github.io/p/getting-used-to-github-eps-3/rebase.gif&#34; data-size=&#34;883x481&#34;&gt;
-		&lt;img src=&#34;https://andoDsAI.github.io/p/getting-used-to-github-eps-3/rebase.gif&#34;
-			width=&#34;883&#34;
-			height=&#34;481&#34;
-			srcset=&#34;https://andoDsAI.github.io/p/getting-used-to-github-eps-3/rebase_hu80fbca7437410330302d7a8016dd5d26_69827_480x0_resize_box_1.gif 480w, https://andoDsAI.github.io/p/getting-used-to-github-eps-3/rebase_hu80fbca7437410330302d7a8016dd5d26_69827_1024x0_resize_box_1.gif 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Rebase&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Rebase&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;You should use &lt;code&gt;git rebase&lt;/code&gt; when your changes do not &amp;ldquo;deserve&amp;rdquo; a separate branch for its own. All the commands with &lt;code&gt;merge&lt;/code&gt; above can also be done with &lt;code&gt;rebase&lt;/code&gt;; note that it has a different behaviour as in the animations&lt;/p&gt;
-&lt;p&gt;When working with remote directories, if you want to rebase instead of merge after fetching changes, you can add &lt;code&gt;--rebase&lt;/code&gt; flag to the &lt;code&gt;pull&lt;/code&gt; command:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;git pull&lt;/code&gt; = &lt;code&gt;git fetch&lt;/code&gt; + &lt;code&gt;git merge&lt;/code&gt; against tracking upstream branch&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git pull --rebase&lt;/code&gt; = &lt;code&gt;git fetch&lt;/code&gt; + &lt;code&gt;git rebase&lt;/code&gt; against tracking upstream branch&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;final-words&#34;&gt;Final words&lt;/h1&gt;
-&lt;p&gt;The conflict in reality can be more complex, but in this episode, I have list the common cases you might face when you need to merge 2 branches together.&lt;/p&gt;
-&lt;p&gt;There are some images in the post, some are mine, some are from the Internet, and it’s free to use as in the LICENSE below. But I always leave credit here to support authors, and so do you if you want to use content in my article.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A scenario from the Udacity&amp;rsquo;s Machine Learning DevOps Engineer helps me a lot in creating a bunch of scenarios above: &lt;a class=&#34;link&#34; href=&#34;https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Answers on StackOverflow that help me with explanation (and images) in the process:
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://stackoverflow.com/questions/9069061/what-effect-does-the-no-ff-flag-have-for-git-merge&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://stackoverflow.com/questions/9069061/what-effect-does-the-no-ff-flag-have-for-git-merge&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://stackoverflow.com/questions/18930527/difference-between-git-pull-and-git-pull-rebase&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://stackoverflow.com/questions/18930527/difference-between-git-pull-and-git-pull-rebase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://stackoverflow.com/questions/173919/is-there-a-theirs-version-of-git-merge-s-ours&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://stackoverflow.com/questions/173919/is-there-a-theirs-version-of-git-merge-s-ours&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://stackoverflow.com/questions/2500296/can-i-make-fast-forwarding-be-off-by-default-in-git&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://stackoverflow.com/questions/2500296/can-i-make-fast-forwarding-be-off-by-default-in-git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Amazing images and explanations from Nicola Paolucci&amp;rsquo;s blog post: &lt;a class=&#34;link&#34; href=&#34;https://blog.developer.atlassian.com/pull-request-merge-strategies-the-great-debate/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://blog.developer.atlassian.com/pull-request-merge-strategies-the-great-debate/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
         <title>Cà phê thế nào là ngon?</title>
         <link>https://andoDsAI.github.io/p/ca-phe-the-nao-la-ngon/</link>
         <pubDate>Mon, 04 Apr 2022 19:10:13 +0700</pubDate>
@@ -1004,7 +786,7 @@ Unmerged paths:
 &lt;p&gt;There are multiple ways to install &lt;strong&gt;Hugo&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Install from binary releases on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Github&lt;/a&gt;. I reccommend installing the &lt;strong&gt;extended&lt;/strong&gt; version, because some themes will run only on this version.&lt;/li&gt;
+    &gt;Github&lt;/a&gt;. I recommend installing the &lt;strong&gt;extended&lt;/strong&gt; version, because some themes will run only on this version.&lt;/li&gt;
 &lt;li&gt;On a Mac with &lt;code&gt;Homebrew&lt;/code&gt; installed, run &lt;code&gt;brew install hugo&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;On Windows with &lt;code&gt;Chocolatey&lt;/code&gt;: &lt;code&gt;choco install hugo[-extended] -confirm&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -1095,7 +877,7 @@ Check again with &lt;code&gt;git remote -v&lt;/code&gt;:&lt;/p&gt;
         <item>
         <title>What this blog is all about?</title>
         <link>https://andoDsAI.github.io/p/what-this-blog-is-all-about/</link>
-        <pubDate>Fri, 10 Sep 2021 14:50:51 +0700</pubDate>
+        <pubDate>Mon, 28 Jun 2021 14:50:51 +0700</pubDate>
         
         <guid>https://andoDsAI.github.io/p/what-this-blog-is-all-about/</guid>
         <description>&lt;img src="https://andoDsAI.github.io/p/what-this-blog-is-all-about/cover.jpg" alt="Featured image of post What this blog is all about?" /&gt;&lt;h1 id=&#34;some-first-words&#34;&gt;Some first words&lt;/h1&gt;
